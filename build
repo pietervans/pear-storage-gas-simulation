@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+cd C++
+make demo
+make demo_ms
+make convergence_test
+make boundary_test
+cd ..
+

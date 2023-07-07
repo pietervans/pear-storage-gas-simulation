@@ -1,0 +1,5 @@
+Some meshes downloaded from https://github.com/MichielDeKoninck/ThePearProject
+
+The README of the repository explicitly mentions that the authors allow
+usage of these files:
+"Can we use and modify your code for demonstrations concerning the course? Yes"
